@@ -1,1 +1,17 @@
 /* your code */
+#tab {
+	border-radius: 5px;
+}
+
+#head {
+	background-color: #274bb9;
+	color: white;
+}
+
+.odd {
+	background-color: white;
+}
+
+.even {
+	background-color: silver;
+}
